@@ -4,7 +4,7 @@
 
 ### Frontend Developer | Next.js & TypeScript Developer
 
-Building modern, scalable, and responsive web applications with a focus on performance, clean UI, and real-world user experiences.
+Building scalable, responsive, and high-performance web applications with modern frontend technologies and clean architecture.
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
@@ -14,17 +14,19 @@ Building modern, scalable, and responsive web applications with a focus on perfo
 
 ## About Me
 
-Frontend Developer passionate about building modern web applications using Next.js, React, and TypeScript.
+Frontend Developer with 6 months of professional experience building modern web applications and dashboard systems.
 
-I focus on creating responsive interfaces, scalable architectures, and clean user experiences while continuously improving my frontend engineering skills.
+Passionate about developing scalable frontend architectures, responsive user interfaces, and real-world applications using modern technologies like Next.js, React, and TypeScript.
 
-Currently working on advanced dashboard systems, eCommerce platforms, SaaS applications, and logistics management systems.
+Currently focused on advanced frontend development, performance optimization, and full-stack application architecture.
+
+📍 Reyhanlı, Turkey
 
 ---
 
 ## Tech Stack
 
-### Frontend Development
+### Frontend
 ![Next JS](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -32,8 +34,15 @@ Currently working on advanced dashboard systems, eCommerce platforms, SaaS appli
 
 ### Styling & UI
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat&logo=framer&logoColor=blue)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-black?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### State Management & Forms
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat)
 
 ### Backend & Database
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -50,16 +59,28 @@ Currently working on advanced dashboard systems, eCommerce platforms, SaaS appli
 ## Featured Projects
 
 ### NIDLP - Maritime Transport Platform
-Modern logistics and maritime transport platform built with Next.js and TypeScript.
+Modern maritime logistics and transport management platform built with Next.js and TypeScript.
+
+🔗 Live Demo:
+https://nidlpp.vercel.app/
+
+---
 
 ### MES Dashboard
-Manufacturing execution system dashboard for factory management, analytics, and production monitoring.
+Advanced manufacturing execution system dashboard for factory operations, analytics, and production monitoring.
+
+🔗 Live Demo:
+https://mes-dashboard-pearl.vercel.app/
+
+---
 
 ### eCommerce Platform
-Full modern eCommerce application with authentication, filtering, product management, and responsive design.
+Modern eCommerce application with filtering, authentication, responsive design, and scalable architecture.
+
+---
 
 ### SaaS Dashboard
-Scalable SaaS dashboard with advanced UI, charts, analytics, and reusable components.
+Professional SaaS dashboard with analytics, reusable UI components, charts, and modern UX.
 
 ---
 
@@ -67,9 +88,9 @@ Scalable SaaS dashboard with advanced UI, charts, analytics, and reusable compon
 
 - Advanced Next.js 15
 - Backend Development with Node.js & Express
-- Scalable Architecture
+- Scalable System Design
 - Performance Optimization
-- Web Application Security
+- Full-Stack Development
 
 ---
 
@@ -88,13 +109,14 @@ Scalable SaaS dashboard with advanced UI, charts, analytics, and reusable compon
 ## Connect With Me
 
 - GitHub: https://github.com/abdullah-abd-alslam
-- LinkedIn: www.linkedin.com/in/abdullah-abdalslam
+- LinkedIn: https://www.linkedin.com/in/abdullah-abdalslam
 - Email: abdullahxyzabc67@gmail.com
+- Phone: +963991566773
 
 ---
 
 <div align="center">
 
-### "Building modern web experiences with clean code and scalable architecture."
+### "Building modern web applications with clean code, scalable architecture, and high-performance user experiences."
 
 </div>
