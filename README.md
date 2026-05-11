@@ -88,7 +88,7 @@ Scalable SaaS dashboard with advanced UI, charts, analytics, and reusable compon
 ## Connect With Me
 
 - GitHub: https://github.com/abdullah-abd-alslam
-- LinkedIn: https://www.linkedin.com/in/abdullah-webdev123
+- LinkedIn: www.linkedin.com/in/abdullah-abdalslam
 - Email: abdullahxyzabc67@gmail.com
 
 ---
